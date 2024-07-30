@@ -70,7 +70,7 @@
 
 /* sm */
 @media (min-width: 640px) {
-    .about-img-wrapper {
+    .about__img-wrapper {
         margin: 0 auto;
     }
     .about__img {
@@ -124,8 +124,8 @@
   .about__list {
     font-size: var(--size-xl);
   }       
-  .about-img{
-    width: 30.75rem;
+  .about__img{
+    width: 25rem;
   }
 }
 
